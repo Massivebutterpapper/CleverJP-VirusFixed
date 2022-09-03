@@ -1,0 +1,1 @@
+x=msgbox("Delete System32?" ,0, "Microsoft Windows")
